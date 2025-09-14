@@ -79,3 +79,5 @@ Before setting up your VM, make sure you have:
 - Use VM for safe **testing, labs, troubleshooting, and coding**.  
 
 ---
+
+Youtube Tutorial Video: [https://youtu.be/5Oqy0EVEx6E](https://youtu.be/5Oqy0EVEx6E)
