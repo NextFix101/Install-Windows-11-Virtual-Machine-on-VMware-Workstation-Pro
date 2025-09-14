@@ -19,8 +19,6 @@ This project demonstrates my ability to:
 - ✅ **Step-by-step installation guide** for Windows 11 on VMware.  
 - ✅ Explanation of **TPM 2.0, Secure Boot, and encryption options**.  
 - ✅ Optimized for **IT homelabs and practice environments**.  
-- ✅ Includes **YouTube tutorial script** and **short-form script** for content creation.  
-- ✅ **SEO-friendly documentation** to help others find and follow the guide easily.  
 
 ---
 
